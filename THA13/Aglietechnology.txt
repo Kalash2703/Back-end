@@ -1,0 +1,18 @@
+Waterfall model
+
+Requirement gathering -> Software Design->Implementation->Verification->Maintenance
+
+Values of Aglie:
+1)Individuals and interaction
+2)Working Software
+3)Customer collaboration
+4)Responding to change
+
+Advantages of Aglie:
+1)More control
+2)Better Productivity
+3)Better quality
+4)Higher customer satisfaction
+5)Higher return on investment
+
+
